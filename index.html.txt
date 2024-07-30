@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skarfa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .social-links {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #007bff;
+            font-size: 24px;
+        }
+        .social-links a:hover {
+            color: #0056b3;
+        }
+        .store-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .store-link a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        .store-link a:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>„—Õ»« »ﬂ ›Ì Skarfa!</h1>
+        <p>„—Õ»« »ﬂ ›Ì ’›Õ Ì «·‘Œ’Ì…. Â‰« Ì„ﬂ‰ﬂ «·⁄ÀÊ— ⁄·Ï —Ê«»ÿ ·„ Ã—Ì «·≈·ﬂ —Ê‰Ì ÊÊ”«∆· «· Ê«’· «·«Ã „«⁄Ì «·Œ«’… »Ì.</p>
+        
+        <div class="social-links">
+            <a href="https://www.facebook.com/yourfacebookpage" target="_blank">›Ì”»Êﬂ</a>
+            <a href="https://www.instagram.com/yourinstagramprofile" target="_blank">≈‰” Ã—«„</a>
+        </div>
+
+        <div class="store-link">
+            <a href="https://www.yourstorewebsite.com" target="_blank">“Ì«—… «·„ Ã— «·≈·ﬂ —Ê‰Ì</a>
+        </div>
+    </div>
+</body>
+</html>
